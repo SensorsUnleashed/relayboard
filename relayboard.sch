@@ -56,9 +56,9 @@ L R R1
 U 1 1 583A8473
 P 1700 2050
 F 0 "R1" V 1780 2050 50  0000 C CNN
-F 1 "330k" V 1700 2050 50  0000 C CNN
+F 1 "549k" V 1700 2050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" V 1630 2050 50  0001 C CNN
-F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/anti-sulfurated-thick-film-chip-resistors/ERJS1DF3303U" H 1700 2050 50  0001 C CNN
+F 3 "" H 1700 2050 50  0001 C CNN
 F 4 "1%," H 1700 2050 60  0001 C CNN "Characteristics"
 F 5 "0805" H 1700 2050 60  0001 C CNN "Package ID"
 	1    1700 2050
@@ -69,7 +69,7 @@ L R R4
 U 1 1 583A85A7
 P 3000 2350
 F 0 "R4" V 2900 2350 50  0000 C CNN
-F 1 "6040R" V 3100 2350 50  0000 C CNN
+F 1 "4.99k" V 3100 2350 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" V 2930 2350 50  0001 C CNN
 F 3 "" H 3000 2350 50  0001 C CNN
 F 4 "1%" H 3000 2350 60  0001 C CNN "Characteristics"
@@ -481,7 +481,7 @@ L R R2
 U 1 1 583F3E30
 P 2050 2050
 F 0 "R2" V 2130 2050 50  0000 C CNN
-F 1 "330k" V 2050 2050 50  0000 C CNN
+F 1 "549k" V 2050 2050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" V 1980 2050 50  0001 C CNN
 F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/anti-sulfurated-thick-film-chip-resistors/ERJS1DF3303U" H 2050 2050 50  0001 C CNN
 F 4 "1%," H 2050 2050 60  0001 C CNN "Characteristics"
@@ -494,7 +494,7 @@ L R R3
 U 1 1 583F3EC3
 P 2450 2050
 F 0 "R3" V 2530 2050 50  0000 C CNN
-F 1 "330k" V 2450 2050 50  0000 C CNN
+F 1 "549k" V 2450 2050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" V 2380 2050 50  0001 C CNN
 F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/anti-sulfurated-thick-film-chip-resistors/ERJS1DF3303U" H 2450 2050 50  0001 C CNN
 F 4 "1%," H 2450 2050 60  0001 C CNN "Characteristics"
@@ -715,7 +715,7 @@ L R R11
 U 1 1 58A610A8
 P 3000 1800
 F 0 "R11" V 2900 1800 50  0000 C CNN
-F 1 "12835R" V 3100 1800 50  0000 C CNN
+F 1 "18.7k" V 3100 1800 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" V 2930 1800 50  0001 C CNN
 F 3 "" H 3000 1800 50  0001 C CNN
 F 4 "1%" H 3000 1800 60  0001 C CNN "Characteristics"
