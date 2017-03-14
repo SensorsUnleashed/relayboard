@@ -1,4 +1,4 @@
-update=fre 17 feb 2017 17:18:25 CET
+update=tir 14 mar 2017 15:24:25 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,13 @@ LibName34=AMS1117
 LibName35=fdn304p
 LibName36=powersupply
 LibName37=at24c256c-sshl-t
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=output/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
